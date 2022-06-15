@@ -38,8 +38,15 @@
 
 <a href="https://github.com/AlexKvai/github-readme-activity-graph"><img alt="AlexKvai's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AlexKvai&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
+## Connect with me:
+
+<p align="left">
+
+
+<a href = "https://www.instagram.com/alexkvai4/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+
+</p>
 
 <br>
 
