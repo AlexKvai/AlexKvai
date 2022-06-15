@@ -21,3 +21,4 @@
     <br />
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexKvai&show_icons=true" />
 
+![snake gif](https://github.com/AlexKvai/AlexKvai/blob/output/github-contribution-grid-snake.gif)
