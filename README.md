@@ -21,4 +21,4 @@
     <br />
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexKvai&show_icons=true" />
 
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/AlexKvai/AlexKvai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/AlexKvai/AlexKvai/github-contribution-grid-snake.svg#gh-light-mode-only)
