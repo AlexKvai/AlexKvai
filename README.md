@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there for everyone. My name is Alex and i'm fullstack starting developer 👋
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AlexKvai&theme=discord&no-bg=true&no-frame=true)
 
