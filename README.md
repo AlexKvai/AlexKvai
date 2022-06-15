@@ -16,7 +16,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student+learning+php+react+js+ts+html5+css3+:))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Computer+science+student+learning+;PHP+JS+TS+REACT+HTML5+CSS3)](https://git.io/typing-svg)
 
 ## 📊 My Github Stats
 
