@@ -20,4 +20,5 @@
     <br />
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexKvai&show_icons=true" />
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexKvai&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexKvai&theme=github_dark)
