@@ -2,8 +2,8 @@
 <h3 align="center">I`m from Novosibirk, Russia</h3>
 
 <p align="center">
-  <img width="45%" height="auto" src="![1622009955_30-phonoteka_org-p-khaker-art-krasivo-38](https://user-images.githubusercontent.com/84131116/173865501-192076db-7a58-489e-8ca9-f78977be44d4.png)" />
-  </p>
+  <img  src="![1622009955_30-phonoteka_org-p-khaker-art-krasivo-38](https://user-images.githubusercontent.com/84131116/173865501-192076db-7a58-489e-8ca9-f78977be44d4.png)" />
+ </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AlexKvai&theme=discord&no-bg=true&no-frame=true)
 
