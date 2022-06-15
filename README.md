@@ -44,7 +44,7 @@
 
 
 <a href = "https://www.instagram.com/alexkvai4/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://vk.com/erfyyoung"><img src="https://img.icons8.com/ios-filled/344/vkontakte--v1.png"/></a>
+<a href = "https://vk.com/erfyyoung"><img src="https://img.icons8.com/color/344/vk-circled.png"/></a>
 
 </p>
 
