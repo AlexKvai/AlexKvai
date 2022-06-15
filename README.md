@@ -7,7 +7,8 @@
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
+<br>
+<br>
 <p align="center">
     <a href="https://github.com/narayanbavisetti/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AlexKvai's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexKvai&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -15,9 +16,9 @@
 </p>
 
 <br>
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Computer+science+student+learning+;PHP+JS+TS+REACT+HTML5+CSS3)](https://git.io/typing-svg)
-</p>
+<div align='center'>
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Computer+science+student+learning+;PHP+JS+TS+REACT+HTML5+CSS3)](https://git.io/typing-svg)
+ </div>
 ## 📊 My Github Stats
 
   <br/>
