@@ -2,7 +2,7 @@
 <h3 align="center">I`m from Novosibirk, Russia</h3>
 
 <p align="center">
-  <img width="45%" height="auto" src="[https://user-images.githubusercontent.com/72156168/130989446-dffc4c7e-3b3d-4177-a877-6c90e9d6e292.png](https://xakep.ru/wp-content/uploads/2018/05/171485/KuroiSH-hacker.jpg)](https://phonoteka.org/uploads/posts/2021-06/1624449851_58-phonoteka_org-p-oboi-na-telefon-khaker-krasivo-61.jpg)" />
+  <img width="45%" height="auto" src="![1622009955_30-phonoteka_org-p-khaker-art-krasivo-38](https://user-images.githubusercontent.com/84131116/173865501-192076db-7a58-489e-8ca9-f78977be44d4.png)" />
   </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AlexKvai&theme=discord&no-bg=true&no-frame=true)
