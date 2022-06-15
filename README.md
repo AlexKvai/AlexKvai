@@ -1,4 +1,9 @@
-### Hi there for everyone. My name is Alex and i'm fullstack starting developer 👋
+<h1 align="center">Hi there for everyone. My name is Alex and i'm fullstack starting developer👋</h1>
+<h3 align="center">I`m from Novosibirk, Russia</h3>
+
+<p align="center">
+  <img width="45%" height="auto" src="https://user-images.githubusercontent.com/72156168/130989446-dffc4c7e-3b3d-4177-a877-6c90e9d6e292.png" />
+  </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AlexKvai&theme=discord&no-bg=true&no-frame=true)
 
