@@ -1,9 +1,9 @@
 <h1 align="center">Hi there for everyone. My name is Alex and i'm fullstack starting developer👋</h1>
 <h3 align="center">I`m from Novosibirk, Russia</h3>
 
-<p align="center">
+
 ![1622009955_30-phonoteka_org-p-khaker-art-krasivo-38](https://user-images.githubusercontent.com/84131116/173865962-731c9a0a-609e-4b8b-bf0d-bc6eafb128e8.png)
- </p>
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AlexKvai&theme=discord&no-bg=true&no-frame=true)
 
