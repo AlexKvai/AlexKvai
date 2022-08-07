@@ -16,10 +16,13 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 <br>
 <br>
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-    <a href="https://github.com/AlexKvai/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AlexKvai's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexKvai&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AlexKvai's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexKvai&theme=monokai-metallian&hide_border=true"/>
+  </a>
 </p>
 <br>
 
