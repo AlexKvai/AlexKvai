@@ -53,3 +53,5 @@
 
 
 ![snake gif](https://github.com/AlexKvai/AlexKvai/blob/output/github-contribution-grid-snake.gif)
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AlexKvai's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=AlexKvai&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
