@@ -49,8 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AlexKvai&show_icons=true" />
 </picture>
  <br/>
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexKvai&repo=github-readme-stats)](https://github.com/AlexKvai/github-readme-stats)
-
+ [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=AlexKvai)](https://github.com/AlexKvai/github-contribution-stats/)
 ## Connect with me:
 
 <p align="left">
