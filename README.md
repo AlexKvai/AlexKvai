@@ -49,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AlexKvai&show_icons=true" />
 </picture>
  <br/>
- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=AlexKvai)](https://github.com/AlexKvai/github-contribution-stats/)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ## Connect with me:
 
 <p align="left">
