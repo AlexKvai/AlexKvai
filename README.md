@@ -49,10 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AlexKvai&show_icons=true" />
 </picture>
  <br/>
-   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKvai&hide=javascript,css,scss,html&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
 ## Connect with me:
 
 <p align="left">
