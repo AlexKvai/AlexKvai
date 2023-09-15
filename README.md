@@ -37,7 +37,7 @@
 
   <br/>
   <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKvai)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKvai)](https://github.com/AlexKvai/github-readme-stats)
  <br/>
 
 ## Connect with me:
