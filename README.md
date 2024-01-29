@@ -1,6 +1,7 @@
 <h1 align="center">Hi there for everyone. My name is Alex and i'm fullstack developer👋</h1>
 <h3 align="center">I`m from Novosibirk, Russia</h3>
 <h3 align="center">My stack: React, TS, NextJs, NestJs</h3>
+
 ![1622009955_30-phonoteka_org-p-khaker-art-krasivo-38 (1)](https://user-images.githubusercontent.com/84131116/173866301-3ac8cb5a-b874-4c3d-ab2d-b71e937bc0bf.png)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AlexKvai&theme=discord&no-bg=true&no-frame=true)
