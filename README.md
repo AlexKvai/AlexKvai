@@ -33,18 +33,23 @@
 ## 📊 My Github Stats
 
   <br/>
-  <div align="center" style="display: flex; flex-direction: column; flex-wrap: wrap; align-items: center; justify-content: center;">
+  <div align="center">
     
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AlexKvai's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AlexKvai&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Computer+science+student+learning+;PHP+JS+TS+REACT+HTML5+CSS3)](https://git.io/typing-svg)
+  <div align="center" style="display: flex; flex-direction: row;">
     
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexkvai&theme=aura_dark)
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexkvai&theme=aura_dark&utcOffset=8)
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexkvai&theme=aura_dark)
+  
+  </div>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Computer+science+student+learning+;PHP+JS+TS+REACT+HTML5+CSS3)](https://git.io/typing-svg)
+    
+
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexkvai&theme=aura_dark)
 
