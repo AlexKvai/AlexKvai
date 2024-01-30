@@ -33,6 +33,9 @@
 ## 📊 My Github Stats
 
   <br/>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Computer+science+student+learning+;PHP+JS+TS+REACT+HTML5+CSS3)](https://git.io/typing-svg)
+  
   <div align="center">
     
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AlexKvai's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AlexKvai&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
@@ -42,9 +45,7 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexkvai&theme=aura_dark&utcOffset=8)
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexkvai&theme=aura_dark)
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Computer+science+student+learning+;PHP+JS+TS+REACT+HTML5+CSS3)](https://git.io/typing-svg)
-    
+
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexkvai&theme=aura_dark)
 
   <picture>
